@@ -131,7 +131,7 @@
 #ifdef TBLE_DUAL_2U
 &trans &trans        &trans     &kp RPAR                &trans                    &trans       &trans         &trans &trans &trans
 #elif defined(TBLE_MIT)
-&trans &trans        &trans     &kp RPAR        &trans                &trans             &trans      &trans   &trans &trans &trans
+&trans &trans        &trans     &kp RPAR        &trans                &trans             &trans      &trans   &bootloader &trans &trans
 #else
 &trans &trans        &trans     &kp RPAR        &trans          &trans       &trans    &trans  &trans         &bootloader &trans &trans
 #endif
